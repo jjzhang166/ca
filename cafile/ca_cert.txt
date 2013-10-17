@@ -1,0 +1,33 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=CN, ST=JS, O=CIOTC, CN=WLWAQCA
+        Validity
+            Not Before: Aug 13 03:34:37 2013 GMT
+            Not After : Aug 14 03:34:37 2013 GMT
+        Subject: C=CN, ST=JS, O=CIOTC, CN=WLWAQCA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (1024 bit)
+                Modulus (1024 bit):
+                    00:b9:53:04:fa:e9:da:5f:5a:24:56:c6:74:86:a2:
+                    9b:ff:5f:1e:17:04:51:2f:ed:8d:d5:3b:25:f5:63:
+                    69:10:77:67:c6:69:20:26:48:d3:46:fe:45:60:35:
+                    42:a6:a6:56:23:a9:0e:7e:02:8a:c5:5a:7c:88:5e:
+                    fe:e9:46:a7:bd:17:bc:7d:ab:69:0e:98:df:c9:71:
+                    70:d1:d7:02:1c:96:06:53:50:dc:14:f0:6a:c3:fd:
+                    81:27:89:62:b2:9f:2b:81:c8:bb:85:31:37:85:85:
+                    60:f9:a0:31:8f:09:d8:89:4a:06:25:05:27:6f:7f:
+                    dc:56:84:44:9c:a1:dc:d9:95
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+        42:ff:05:e9:be:3a:e3:a3:09:4b:6b:da:6f:3c:69:8e:23:13:
+        87:bf:4c:43:3a:c3:b4:2e:71:46:5a:36:17:ab:11:fa:2c:7c:
+        dd:f5:da:59:68:f5:56:70:57:9d:f9:43:80:f5:a5:21:cf:25:
+        c9:0a:11:fe:99:ec:e2:3b:44:ac:d5:8f:2c:ef:0a:77:8d:37:
+        0a:71:43:92:0a:de:09:cd:47:d8:69:c6:94:97:90:9f:be:af:
+        0e:5c:f2:96:8d:ad:45:4b:d6:96:8e:9f:d9:a4:4c:ed:71:72:
+        b5:06:7d:23:ad:e6:38:a4:86:fa:c8:ac:36:d3:eb:4f:b3:09:
+        e4:5e
